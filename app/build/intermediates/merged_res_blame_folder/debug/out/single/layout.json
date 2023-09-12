@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.hackillinoisapp-mergeDebugResources-48:/layout/activity_main.xml",
+        "source": "com.example.hackillinoisapp-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.0\\com.example.hackillinoisapp-mergeDebugResources-48:\\layout\\view_item.xml",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.0\\com.example.hackillinoisapp-main-51:\\layout\\view_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.0\\com.example.hackillinoisapp-mergeDebugResources-48:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.0\\com.example.hackillinoisapp-main-51:\\layout\\activity_main.xml"
+    }
+]
